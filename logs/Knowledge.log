@@ -5330,3 +5330,764 @@
 2025-09-26 16:47:32,649 - Knowledge - INFO - Updating org costs, total cost: 0
 2025-09-26 16:47:33,433 - Knowledge - INFO - Saving knowledge to Redis...
 2025-09-26 16:47:33,587 - Knowledge - INFO - Knowledge saved to Redis successfully
+2025-09-26 17:01:24,787 - Knowledge - INFO - Redis support added with prefix knowledge:b70881y:
+2025-09-26 17:01:25,615 - Knowledge - INFO - load persisted knowledge: begin
+2025-09-26 17:01:25,716 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:25,786 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:25,855 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/shelf/controller/ShelfController.java
+2025-09-26 17:01:25,970 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:26,053 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:26,140 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/types/Book.ts
+2025-09-26 17:01:26,244 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:26,341 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:26,429 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/repository/UserRepository.java
+2025-09-26 17:01:26,540 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:26,612 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:26,689 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/book-display/ShelfCarousel.css
+2025-09-26 17:01:26,815 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:26,894 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:26,971 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/shelf/model/UserCreatedShelf.java
+2025-09-26 17:01:27,100 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:27,189 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:27,263 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V027__ALTER_USER_ADD_FAIL_ATTEMPTS_DATA.sql
+2025-09-26 17:01:27,397 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:27,470 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:27,559 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/statistics/RatingStatistics.java
+2025-09-26 17:01:27,677 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:27,764 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:27,840 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/util/CsvUtils.java
+2025-09-26 17:01:27,954 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:28,030 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:28,142 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/bookexport/BookExportService.java
+2025-09-26 17:01:28,264 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:28,368 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:28,474 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/react-app-env.d.ts
+2025-09-26 17:01:28,576 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:28,661 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:28,742 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V022__ALTER_PUBLISHER_MAKE_NAME_UNIQUE.sql
+2025-09-26 17:01:28,844 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:28,925 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:29,015 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/shelf/service/PredefinedShelfService.java
+2025-09-26 17:01:29,136 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:29,223 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:29,335 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/email-service/src/main/java/com/karankumar/bookproject/book/service/EmailServiceImpl.java
+2025-09-26 17:01:29,445 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:29,556 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:29,642 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V010__CREATE_USER_ROLE.sql
+2025-09-26 17:01:29,729 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:29,835 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:29,899 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/util/UserCreatedShelfUtilsTest.java
+2025-09-26 17:01:29,985 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:30,071 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:30,183 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/constraint/PasswordStrength.java
+2025-09-26 17:01:30,276 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:30,387 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:30,499 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/bookimport/librarything/LibraryThingBookDataImport.java
+2025-09-26 17:01:30,604 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:30,688 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:30,770 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/controller/UserController.java
+2025-09-26 17:01:30,905 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:30,994 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:31,126 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/service/TagServiceTest.java
+2025-09-26 17:01:31,215 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:31,326 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:31,433 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/controller/BookImportControllerTest.java
+2025-09-26 17:01:31,527 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:31,601 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:31,674 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/public/index.html
+2025-09-26 17:01:31,782 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:31,886 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:31,966 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/reportWebVitals.ts
+2025-09-26 17:01:32,062 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:32,164 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:32,282 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/banner.txt
+2025-09-26 17:01:32,416 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:32,498 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:32,589 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/dto/BookPatchDto.java
+2025-09-26 17:01:32,702 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:32,798 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:32,883 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/goal/Goal.tsx
+2025-09-26 17:01:32,976 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:33,094 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:33,162 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/statistics/PageStatistics.java
+2025-09-26 17:01:33,249 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:33,362 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:33,496 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/dto/BookDto.java
+2025-09-26 17:01:33,630 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:33,714 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:33,830 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V024__CREATE_BOOK_GENRE.sql
+2025-09-26 17:01:33,936 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:34,020 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:34,103 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V018__CREATE_BOOK_PUBLISHER.sql
+2025-09-26 17:01:34,212 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:34,303 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:34,394 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/service/AuthorService.java
+2025-09-26 17:01:34,540 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:34,708 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:34,793 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/account/auth/CustomAuthenticationProviderTest.java
+2025-09-26 17:01:34,897 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:34,982 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:35,069 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/public/manifest.json
+2025-09-26 17:01:35,178 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:35,275 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:35,380 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V002__CREATE_BOOK.sql
+2025-09-26 17:01:35,473 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:35,552 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:35,653 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/dto/UserToDeleteDto.java
+2025-09-26 17:01:35,747 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:35,838 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:35,923 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V025__ALTER_AUTHOR_MAKE_NAME_FULL.sql
+2025-09-26 17:01:36,004 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:36,099 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:36,180 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/App.tsx
+2025-09-26 17:01:36,306 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:36,381 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:36,478 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/components/Search.tsx
+2025-09-26 17:01:36,589 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:36,673 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:36,746 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/service/PredefinedShelfServiceTest.java
+2025-09-26 17:01:36,842 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:36,918 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:37,030 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/model/BookFormat.java
+2025-09-26 17:01:37,146 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:37,255 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:37,342 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/login/Login.tsx
+2025-09-26 17:01:37,422 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:37,493 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:37,572 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/public/robots.txt
+2025-09-26 17:01:37,662 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:37,737 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:37,824 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V007__CREATE_BOOK_TAG.sql
+2025-09-26 17:01:37,915 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:38,023 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:38,108 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/controller/ShelfControllerTest.java
+2025-09-26 17:01:38,220 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:38,294 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:38,382 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/model/Role.java
+2025-09-26 17:01:38,467 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:38,575 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:38,655 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/security/jwt/exceptionhandler/ApiExceptionHandler.java
+2025-09-26 17:01:38,745 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:38,856 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:38,960 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/settings/Settings.tsx
+2025-09-26 17:01:39,047 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:39,169 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:39,257 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/util/ReadingGoalTestUtils.java
+2025-09-26 17:01:39,376 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:39,475 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:39,579 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/BookProjectApplication.java
+2025-09-26 17:01:39,677 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:39,792 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:39,903 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/service/BookService.java
+2025-09-26 17:01:39,986 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:40,084 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:40,164 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/my-books/ShelfModal.css
+2025-09-26 17:01:40,282 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:40,347 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:40,417 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/statistics/GenreStatistics.java
+2025-09-26 17:01:40,542 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:40,619 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:40,734 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/email-service/src/main/java/com/karankumar/bookproject/EmailService.java
+2025-09-26 17:01:40,815 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:40,897 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:40,973 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/exception/PasswordTooWeakException.java
+2025-09-26 17:01:41,097 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:41,204 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:41,301 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/BookUtils.java
+2025-09-26 17:01:41,408 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:41,491 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:41,591 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/statistics/Stats.tsx
+2025-09-26 17:01:41,692 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:41,803 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:41,886 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/json/LocalDateSerializer.java
+2025-09-26 17:01:42,003 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:42,108 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:42,192 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/theme.tsx
+2025-09-26 17:01:42,276 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:42,371 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:42,474 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/account/auth/service/DatabaseUserDetailsPasswordServiceTest.java
+2025-09-26 17:01:42,560 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:42,654 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:42,736 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/model/Tag.java
+2025-09-26 17:01:42,828 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:42,926 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:43,008 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/model/BookGenre.java
+2025-09-26 17:01:43,100 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:43,210 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:43,332 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/tsconfig.json
+2025-09-26 17:01:43,424 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:43,510 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:43,599 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/register/Register.tsx
+2025-09-26 17:01:43,712 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:43,794 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:43,891 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/components/Layout.tsx
+2025-09-26 17:01:43,972 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:44,048 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:44,132 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/security/jwt/JwtConfig.java
+2025-09-26 17:01:44,241 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:44,333 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:44,412 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V015__ALTER_BOOK_ADD_FORMAT.sql
+2025-09-26 17:01:44,523 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:44,591 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:44,702 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/navigation/NavBar.css
+2025-09-26 17:01:44,827 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:44,947 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:45,020 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/statistics/YearStatistics.java
+2025-09-26 17:01:45,121 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:45,240 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:45,319 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/service/UserService.java
+2025-09-26 17:01:45,395 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:45,497 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:45,574 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/repository/PredefinedShelfRepositoryTest.java
+2025-09-26 17:01:45,701 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:45,800 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:45,916 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/my-books/ShelfModal.tsx
+2025-09-26 17:01:46,002 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:46,091 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:46,201 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/email-service/src/main/java/com/karankumar/bookproject/template/EmailTemplate.java
+2025-09-26 17:01:46,286 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:46,368 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:46,451 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/repository/AuthorRepository.java
+2025-09-26 17:01:46,569 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:46,647 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:46,734 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/goal/Goal.css
+2025-09-26 17:01:46,831 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:46,911 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:46,978 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/util/DateUtils.java
+2025-09-26 17:01:47,064 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:47,159 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:47,240 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/bookimport/ImportServiceDelegate.java
+2025-09-26 17:01:47,319 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:47,431 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:47,545 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/App.test.tsx
+2025-09-26 17:01:47,629 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:47,735 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:47,845 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V009__CREATE_ROLE.sql
+2025-09-26 17:01:47,941 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:48,032 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:48,136 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/bookimport/ImportServiceTest.java
+2025-09-26 17:01:48,248 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:48,317 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:48,435 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/pom.xml
+2025-09-26 17:01:48,551 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:48,660 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:48,739 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/navigation/NavBar.tsx
+2025-09-26 17:01:48,871 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:48,968 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:49,042 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/controller/BookController.java
+2025-09-26 17:01:49,138 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:49,222 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:49,335 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/annotations/IntegrationTest.java
+2025-09-26 17:01:49,455 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:49,527 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:49,614 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/resources/exportedBooksSample.json
+2025-09-26 17:01:49,727 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:49,804 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:49,899 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/repository/BookRepository.java
+2025-09-26 17:01:50,025 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:50,109 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:50,204 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/ACKNOWLEDGEMENTS.md
+2025-09-26 17:01:50,307 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:50,423 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:50,497 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/pom.xml
+2025-09-26 17:01:50,586 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:50,659 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:50,773 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/form/EmailAddress.tsx
+2025-09-26 17:01:50,858 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:50,962 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:51,043 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/email-service/src/main/resources/templates/template-thymeleaf.html
+2025-09-26 17:01:51,173 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:51,266 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:51,359 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/email-service/src/main/java/com/karankumar/bookproject/configuration/EmailConfiguration.java
+2025-09-26 17:01:51,618 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:51,724 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:51,815 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/service/PublisherServiceTest.java
+2025-09-26 17:01:51,892 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:51,995 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:52,080 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/integration/JwtTokenVerifierIntegrationTest.java
+2025-09-26 17:01:52,196 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:52,291 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:52,383 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/util/BookUtilsTest.java
+2025-09-26 17:01:52,508 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:52,585 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:52,691 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/goal/ReadingGoalCalculatorTest.java
+2025-09-26 17:01:52,781 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:52,875 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:52,993 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/start.sh
+2025-09-26 17:01:53,094 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:53,158 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:53,245 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/email-service/src/main/java/com/karankumar/bookproject/book/service/EmailService.java
+2025-09-26 17:01:53,350 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:53,423 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:53,538 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V019__ALTER_USER_MAKE_EMAIL_NULLABLE.sql
+2025-09-26 17:01:53,656 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:53,735 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:53,850 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/dto/UserToRegisterDto.java
+2025-09-26 17:01:53,956 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:54,051 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:54,139 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/register/Register.css
+2025-09-26 17:01:54,233 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:54,338 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:54,445 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/components/SearchResults.tsx
+2025-09-26 17:01:54,555 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:54,668 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:54,775 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/goal/ReadingGoalService.java
+2025-09-26 17:01:54,857 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:54,921 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:55,014 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/components/Layout.css
+2025-09-26 17:01:55,141 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:55,244 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:55,342 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/util/StringUtilsTest.java
+2025-09-26 17:01:55,456 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:55,560 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:55,665 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/service/IncorrectPasswordException.java
+2025-09-26 17:01:55,770 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:55,882 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:55,969 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/model/RoleType.java
+2025-09-26 17:01:56,065 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:56,177 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:56,280 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V020__ALTER_USER_MAKE_USERNAME_NULLABLE.sql
+2025-09-26 17:01:56,380 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:56,466 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:56,546 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/constraint/PasswordStrengthCheck.java
+2025-09-26 17:01:56,653 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:56,771 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:56,852 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/book-display/ShelfCarousel.tsx
+2025-09-26 17:01:56,957 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:57,055 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:57,179 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/security/jwt/exceptionhandler/ErrorResponse.java
+2025-09-26 17:01:57,274 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:57,370 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:57,481 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/shelf/controller/PredefinedShelfController.java
+2025-09-26 17:01:57,581 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:57,664 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:57,760 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/shelf/repository/PredefinedShelfRepository.java
+2025-09-26 17:01:57,830 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:57,907 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:58,004 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/exception/CurrentUserNotFoundException.java
+2025-09-26 17:01:58,110 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:58,183 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:58,275 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/STYLEGUIDE.md
+2025-09-26 17:01:58,381 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:58,458 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:58,548 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V014__ALTER_BOOK_ADD_ISBN.sql
+2025-09-26 17:01:58,656 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:58,740 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:58,817 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/api/endpoints.ts
+2025-09-26 17:01:58,938 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:59,041 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:59,163 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V016__ALTER_BOOK_ADD_PUBLICATION_YEAR.sql
+2025-09-26 17:01:59,269 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:59,365 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:59,480 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/model/Publisher.java
+2025-09-26 17:01:59,557 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:59,640 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:01:59,732 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/bookimport/mapper/LibraryThingMapperTest.java
+2025-09-26 17:01:59,827 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:01:59,912 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:00,017 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/exception/UserAlreadyRegisteredException.java
+2025-09-26 17:02:00,110 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:00,207 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:00,311 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/bookexport/BookExportControllerTest.java
+2025-09-26 17:02:00,406 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:00,492 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:00,577 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/constraint/PasswordStrengthValidator.java
+2025-09-26 17:02:00,680 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:00,804 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:01,053 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/components/Search.css
+2025-09-26 17:02:01,150 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:01,229 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:01,348 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/login/Login.css
+2025-09-26 17:02:01,449 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:01,529 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:01,611 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V008__CREATE_USER.sql
+2025-09-26 17:02:01,741 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:01,838 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:01,958 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/bookimport/librarything/LibraryThingBookImport.java
+2025-09-26 17:02:02,073 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:02,156 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:02,251 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/auth/service/DatabaseUserDetailsService.java
+2025-09-26 17:02:02,342 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:02,411 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:02,497 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/email-service/src/main/java/com/karankumar/bookproject/constant/EmailConstant.java
+2025-09-26 17:02:02,574 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:02,693 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:02,796 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/settings/Settings.css
+2025-09-26 17:02:02,919 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:02,996 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:03,085 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/statistics/util/StatisticTestUtils.java
+2025-09-26 17:02:03,187 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:03,268 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:03,355 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/commons/src/main/java/com/karankumar/bookproject/ExcludeFromJacocoGeneratedReport.java
+2025-09-26 17:02:03,459 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:03,565 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:03,643 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/bookimport/LibraryThingBookImportService.java
+2025-09-26 17:02:03,733 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:03,842 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:03,930 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/email-service/src/main/java/com/karankumar/bookproject/configuration/ThymeleafConfiguration.java
+2025-09-26 17:02:04,046 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:04,195 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:04,314 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/shelf/service/UserCreatedShelfService.java
+2025-09-26 17:02:04,402 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:04,515 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:04,611 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/my-books/MyBooks.css
+2025-09-26 17:02:04,715 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:04,809 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:04,921 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/auth/service/DatabaseUserDetailsPasswordService.java
+2025-09-26 17:02:05,028 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:05,121 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:05,194 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/security/jwt/JwtUsernamePasswordAuthFilter.java
+2025-09-26 17:02:05,316 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:05,423 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:05,521 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/login/forgotPassword/PasswordResetModal.tsx
+2025-09-26 17:02:05,597 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:05,686 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:05,759 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/model/User.java
+2025-09-26 17:02:05,860 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:05,941 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:06,056 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V003__CREATE_PREDEFINED_SHELF.sql
+2025-09-26 17:02:06,175 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:06,267 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:06,382 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V012__CREATE_USER_CREATED_SHELF.sql
+2025-09-26 17:02:06,474 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:06,577 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:06,700 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/email-service/src/test/java/com/karankumar/bookproject/book/service/EmailServiceTest.java
+2025-09-26 17:02:06,823 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:06,921 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:07,031 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/delete-account/DeleteAccount.css
+2025-09-26 17:02:07,160 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:07,250 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:07,333 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/account/auth/service/DatabaseUserDetailsServiceTest.java
+2025-09-26 17:02:07,414 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:07,530 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:07,631 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V006__CREATE_TAG.sql
+2025-09-26 17:02:07,717 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:07,833 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:07,943 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/bookimport/GoodreadsBookImport.java
+2025-09-26 17:02:08,034 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:08,149 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:08,238 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/integration/ReadingGoalControllerIntegrationTest.java
+2025-09-26 17:02:08,348 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:08,441 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:08,530 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V023__ALTER_BOOK_RENAME_CONSTRAINTS.sql
+2025-09-26 17:02:08,657 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:08,724 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:08,834 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/service/ReadingGoalServiceTest.java
+2025-09-26 17:02:08,925 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:09,008 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:09,097 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/shelf/model/Shelf.java
+2025-09-26 17:02:09,231 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:09,311 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:09,409 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/shelf/ShelfNameExistsException.java
+2025-09-26 17:02:09,491 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:09,585 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:09,707 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/goal/ReadingGoalController.java
+2025-09-26 17:02:09,796 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:09,913 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:09,994 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/auth/CustomAuthenticationProvider.java
+2025-09-26 17:02:10,103 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:10,177 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:10,259 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/model/PredefinedShelfName.java
+2025-09-26 17:02:10,358 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:10,467 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:10,545 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/login/forgotPassword/ForgotPasswordModal.css
+2025-09-26 17:02:10,673 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:10,770 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:10,850 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V021__ALTER_USER_REMOVE_USERNAME.sql
+2025-09-26 17:02:10,930 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:11,014 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:11,146 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/bookimport/BookImportController.java
+2025-09-26 17:02:11,241 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:11,401 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:11,505 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/asciidoc/index.adoc
+2025-09-26 17:02:11,590 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:11,688 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:11,773 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/security/jwt/JwtSecretKey.java
+2025-09-26 17:02:11,900 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:12,005 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:12,116 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/goal/ReadingGoalRepository.java
+2025-09-26 17:02:12,207 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:12,312 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:12,387 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/repository/BookRepositoryTest.java
+2025-09-26 17:02:12,510 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:12,624 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:12,735 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/Mappings.java
+2025-09-26 17:02:12,822 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:12,946 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:13,028 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/index.css
+2025-09-26 17:02:13,104 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:13,209 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:13,280 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/service/UserCreatedShelfServiceTest.java
+2025-09-26 17:02:13,368 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:13,480 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:13,581 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/goal/ReadingGoal.java
+2025-09-26 17:02:13,680 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:13,763 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:13,857 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/email-service/src/test/resources/mail-templates/template-thymeleaf.html
+2025-09-26 17:02:13,983 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:14,098 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:14,193 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/email-service/src/test/java/com/karankumar/bookproject/mock/MockEmailTemplate.java
+2025-09-26 17:02:14,282 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:14,384 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:14,497 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/settings/Switch.tsx
+2025-09-26 17:02:14,574 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:14,677 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:14,772 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V017__CREATE_PUBLISHER.sql
+2025-09-26 17:02:14,854 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:14,929 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:15,042 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/controller/BookControllerTest.java
+2025-09-26 17:02:15,150 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:15,262 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:15,366 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/README.md
+2025-09-26 17:02:15,491 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:15,605 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:15,681 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/model/RatingScale.java
+2025-09-26 17:02:15,769 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:15,854 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:15,956 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/book-display/BookList.tsx
+2025-09-26 17:02:16,079 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:16,151 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:16,269 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/repository/PublisherRepository.java
+2025-09-26 17:02:16,345 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:16,434 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:16,534 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/book-overview/BookOverview.css
+2025-09-26 17:02:16,691 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:16,809 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:16,908 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/repository/AuthorRepositoryTest.java
+2025-09-26 17:02:16,999 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:17,074 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:17,196 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/service/TagService.java
+2025-09-26 17:02:17,313 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:17,417 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:17,499 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/auth/UserDetailsMapper.java
+2025-09-26 17:02:17,580 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:17,656 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:17,732 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/util/TestData.java
+2025-09-26 17:02:17,819 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:17,899 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:17,972 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/model/README.md
+2025-09-26 17:02:18,072 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:18,152 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:18,268 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/security/SecurityConfiguration.java
+2025-09-26 17:02:18,396 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:18,470 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:18,563 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/commons/pom.xml
+2025-09-26 17:02:18,658 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:18,759 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:18,836 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/util/DateUtilsTest.java
+2025-09-26 17:02:18,969 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:19,071 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:19,155 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/email-service/src/main/java/com/karankumar/bookproject/book/service/FakeEmailService.java
+2025-09-26 17:02:19,280 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:19,379 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:19,450 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/CODE_OF_CONDUCT.md
+2025-09-26 17:02:19,562 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:19,639 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:19,739 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/statistics/PageStatisticsTest.java
+2025-09-26 17:02:19,835 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:19,922 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:20,041 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/bookexport/BookExportController.java
+2025-09-26 17:02:20,155 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:20,250 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:20,330 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/repository/RoleRepository.java
+2025-09-26 17:02:20,444 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:20,533 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:20,611 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/security/jwt/JwtTokenVerifier.java
+2025-09-26 17:02:20,705 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:20,797 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:20,878 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V011__CREATE_UID_SEQUENCE.sql
+2025-09-26 17:02:20,988 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:21,069 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:21,205 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/account/controller/UserControllerTest.java
+2025-09-26 17:02:21,322 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:21,413 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:21,489 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/book-overview/BookOverview.tsx
+2025-09-26 17:02:21,565 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:21,639 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:21,750 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/auth/listener/AuthenticationBadCredentialsListener.java
+2025-09-26 17:02:21,830 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:21,933 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:22,056 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/book-display/ShelfView.tsx
+2025-09-26 17:02:22,148 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:22,239 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:22,338 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/repository/UserCreatedShelfRepositoryTest.java
+2025-09-26 17:02:22,434 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:22,532 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:22,598 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/bookimport/mapper/LibraryThingMapper.java
+2025-09-26 17:02:22,725 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:22,807 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:22,923 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/account/constraint/PasswordStrengthTest.java
+2025-09-26 17:02:23,015 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:23,121 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:23,196 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/model/Author.java
+2025-09-26 17:02:23,280 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:23,356 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:23,474 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V013__MAKE_SHELVES_PER_USER.sql
+2025-09-26 17:02:23,587 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:23,663 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:23,743 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V001__CREATE_AUTHOR.sql
+2025-09-26 17:02:23,835 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:23,913 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:24,027 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/service/UserServiceTest.java
+2025-09-26 17:02:24,108 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:24,187 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:24,316 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/docker-compose.yml
+2025-09-26 17:02:24,429 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:24,517 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:24,620 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/init.sql
+2025-09-26 17:02:24,703 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:24,779 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:24,872 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/index.tsx
+2025-09-26 17:02:24,950 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:25,022 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:25,131 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/testdata/afterMigrate.sql
+2025-09-26 17:02:25,217 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:25,334 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:25,424 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/bookexport/ExportDto.java
+2025-09-26 17:02:25,503 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:25,594 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:25,698 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/package.json
+2025-09-26 17:02:25,777 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:25,871 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:25,981 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/util/StringUtils.java
+2025-09-26 17:02:26,115 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:26,223 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:26,337 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/bookexport/BookExportServiceTest.java
+2025-09-26 17:02:26,428 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:26,533 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:26,640 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/form/PasswordStrengthMeter.tsx
+2025-09-26 17:02:26,738 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:26,812 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:26,915 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V028__CREATE_HIBERNATE_SEQUENCE.sql
+2025-09-26 17:02:27,013 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:27,106 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:27,216 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/components/Modal.tsx
+2025-09-26 17:02:27,326 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:27,430 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:27,504 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/exception/IncorrectPasswordException.java
+2025-09-26 17:02:27,588 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:27,705 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:27,800 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/statistics/RatingStatisticsTest.java
+2025-09-26 17:02:27,900 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:27,988 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:28,057 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/integration/UserControllerIntegrationTest.java
+2025-09-26 17:02:28,146 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:28,246 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:28,328 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/repository/TagRepository.java
+2025-09-26 17:02:28,449 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:28,586 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:28,707 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/util/CsvUtilsTest.java
+2025-09-26 17:02:28,788 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:28,868 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:28,981 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V005__ALTER_BOOK.sql
+2025-09-26 17:02:29,067 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:29,172 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:29,272 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/model/Book.java
+2025-09-26 17:02:29,366 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:29,465 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:29,570 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/routes.tsx
+2025-09-26 17:02:29,666 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:29,769 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:29,843 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/statistics/Statistics.java
+2025-09-26 17:02:29,956 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:30,074 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:30,185 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/resources/libraryThingImportSample.json
+2025-09-26 17:02:30,280 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:30,354 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:30,427 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/service/BookServiceTest.java
+2025-09-26 17:02:30,524 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:30,605 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:30,704 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/annotations/DataJpaIntegrationTest.java
+2025-09-26 17:02:30,808 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:30,922 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:30,998 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/resources/data.sql
+2025-09-26 17:02:31,090 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:31,186 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:31,285 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/statistics/YearStatisticsTest.java
+2025-09-26 17:02:31,407 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:31,522 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:31,592 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/CONTRIBUTING.md
+2025-09-26 17:02:31,687 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:31,784 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:31,860 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/statistics/GenreStatisticsTest.java
+2025-09-26 17:02:31,970 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:32,056 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:32,165 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/util/SecurityTestUtils.java
+2025-09-26 17:02:32,281 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:32,366 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:32,529 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V004__CREATE_READING_GOAL.sql
+2025-09-26 17:02:32,616 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:32,722 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:32,806 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/json/LocalDateSerializerTest.java
+2025-09-26 17:02:32,922 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:32,991 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:33,080 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/my-books/MyBooks.tsx
+2025-09-26 17:02:33,197 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:33,339 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:33,472 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/bookimport/ImportService.java
+2025-09-26 17:02:33,564 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:33,644 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:33,726 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/account/auth/listener/AuthenticationSuccessListener.java
+2025-09-26 17:02:33,849 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:33,927 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:34,051 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/book-display/BookList.css
+2025-09-26 17:02:34,136 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:34,217 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:34,313 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/email-service/pom.xml
+2025-09-26 17:02:34,401 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:34,506 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:34,588 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/SECURITY.md
+2025-09-26 17:02:34,694 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:34,784 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:34,895 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/login/forgotPassword/ForgotPasswordModal.tsx
+2025-09-26 17:02:34,978 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:35,062 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:35,171 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/book/service/PublisherService.java
+2025-09-26 17:02:35,250 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:35,326 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:35,433 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/http/HttpClient.ts
+2025-09-26 17:02:35,560 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:35,669 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:35,761 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/goal/ReadingGoalCalculator.java
+2025-09-26 17:02:35,858 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:35,953 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:36,035 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/controller/ReadingGoalControllerTest.java
+2025-09-26 17:02:36,158 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:36,252 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:36,329 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/form/Password.tsx
+2025-09-26 17:02:36,405 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:36,530 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:36,618 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/service/AuthorServiceTest.java
+2025-09-26 17:02:36,721 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:36,796 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:36,896 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/setupTests.ts
+2025-09-26 17:02:37,007 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:37,099 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:37,222 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/shelf/repository/UserCreatedShelfRepository.java
+2025-09-26 17:02:37,328 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:37,413 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:37,534 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/security/jwt/UsernamePasswordAuthRequest.java
+2025-09-26 17:02:37,621 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:37,692 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:37,767 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/resources/db/migration/V026__ALTER_PREDEFINED_SHELF_MAKE_USER_ID_NULLABLE.sql
+2025-09-26 17:02:37,885 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:37,984 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:38,069 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/main/java/com/karankumar/bookproject/shelf/model/PredefinedShelf.java
+2025-09-26 17:02:38,187 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:38,270 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:38,370 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/backend/book-app/src/test/java/com/karankumar/bookproject/book/dto/GoodreadsBookImportTest.java
+2025-09-26 17:02:38,454 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:38,538 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:38,638 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/delete-account/DeleteAccount.tsx
+2025-09-26 17:02:38,728 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/book-project-1656.git:kavia-main
+2025-09-26 17:02:38,836 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f723692b090>
+2025-09-26 17:02:38,934 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/1656/b70881y/book-project-1656/frontend/src/shared/http/verb.ts
+2025-09-26 17:02:39,013 - Knowledge - INFO - load persisted knowledge: end
+2025-09-26 17:02:39,086 - Knowledge - INFO - load persisted docinfo: begin
+2025-09-26 17:02:39,202 - Knowledge - INFO - load persisted docinfo: end
+2025-09-26 17:02:39,759 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-09-26 17:02:39,842 - Knowledge - INFO - knowledge worker kw1 start
+2025-09-26 17:02:39,946 - Knowledge - INFO - Knowledge creation complete
+2025-09-26 17:02:40,020 - Knowledge - INFO - Updating org costs, total cost: 0
+2025-09-26 17:02:40,857 - Knowledge - INFO - Saving knowledge to Redis...
+2025-09-26 17:02:41,035 - Knowledge - INFO - Knowledge saved to Redis successfully
