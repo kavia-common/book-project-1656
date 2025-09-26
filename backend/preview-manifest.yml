@@ -1,0 +1,33 @@
+name: book-project-backend
+description: Preview configuration for Spring Boot backend using Maven Wrapper
+version: "1.0"
+
+# The directory where commands must run from
+workingDirectory: "./"
+
+# Environment variables required by the app at preview time
+env:
+  # Force Spring Boot to listen on the preview port
+  SERVER_PORT: "3001"
+  # Also set via JVM options as a fallback
+  JAVA_TOOL_OPTIONS: "-Dserver.port=3001"
+  # Typical Spring profiles (adjust as needed)
+  SPRING_PROFILES_ACTIVE: "default"
+
+# Command to install dependencies / build for preview
+install:
+  command: "./mvnw -B -DskipTests=true clean package"
+
+# Command to start the backend for preview
+start:
+  # Use spring-boot:run and build all modules if necessary; run the 'book-app' module which is the main app
+  command: "./mvnw -B -DskipTests=true spring-boot:run -pl book-app -am"
+
+# Port that the service will listen on for the preview
+port: 3001
+
+# Optional health check path (if actuator is enabled). If not enabled, the preview system may rely on port open.
+healthCheck:
+  path: "/actuator/health"
+  # Optional timeout in seconds for preview readiness
+  timeoutSeconds: 120
