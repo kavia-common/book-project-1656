@@ -34,3 +34,4 @@ build/
 .vscode/
 
 .env.*
+.file_activity_report.json
